@@ -1,4 +1,4 @@
-迷宫(Scratch)
+# 迷宫(Scratch)
 因为GitHub无法上传25MB以上的大文件，所以可在此下载安装包
 迷宫下载链接:https://pan.huang1111.cn/s/jRwyZUy/
 在线游玩迷宫链接:https://maze-scratch-wangziyi.pages.dev/
