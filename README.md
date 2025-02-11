@@ -1,7 +1,7 @@
 # 迷宫(Scratch)
 因为GitHub无法上传25MB以上的大文件，所以可在此下载安装包
 迷宫下载链接:https://pan.huang1111.cn/s/jRwyZUy/
-在线游玩迷宫链接:https://maze.wangziyicompany.us.kg/
+在线游玩迷宫链接:https://maze.bilibiliwangziyi.us.kg/
 版本：V2.1.3
 以下为“迷宫怎么玩?”教程:
 小球为主角
@@ -15,4 +15,3 @@
 *转载本作品需标注作者和GitHub仓库
 *本Scratch作品是使用TurboWarp Packager打包成其他格式的
 *安装包是用Inno Setup制作的
-*程序内可能包含"migong"字样，此现象属于正常情况
